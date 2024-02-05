@@ -36,7 +36,7 @@ func ConcurrentFrequency(texts []string) FreqMap {
 	for i := range texts {
 		wg.Add(1)
 
-		// Confinement is done using: &texts[i]
+		// Confinement is done using &texts[i]
 		go processData(&wg, &texts[i], res)
 	}
 
