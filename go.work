@@ -1,0 +1,32 @@
+go 1.21.6
+
+use (
+	./airport-robot-Interfaces
+	./animal-magic-Randomess
+	./annalyns-infiltration-Booleans
+	./bird-watcher-ForLoops
+	./blackjack-Switch
+	./booking-up-for-beauty-Time
+	./card-tricks-Slices-and-VariadicFxns
+	./cars-assemble-Numbers-and-Operators
+	./census-ZeroValues
+	./chessboard-Range-and-Types
+	./election-day-Pointers
+	./elons-toys-Methods
+	./expenses-FirstClassFuncs
+	./gross-store-Maps
+	./interest-is-interesting-FloatingPoints
+	./lasagna-Vars-and-Funcs
+	./lasagna-master-Funcs-and-DeepCopy
+	./logs-logs-logs-Runes
+	./meteorology-Stringers
+	./need-for-speed-Structs
+	./parallel-letter-frequency-Concurrency
+	./parsing-log-files-Regexes
+	./party-robot-Packages-and-StringFormatting
+	./sorting-room-TypeAssertion-and-TypeConversion
+	./the-farm-Errors
+	./vehicle-purchase-If
+	./weather-forecast-Comments
+	./welcome-to-tech-palace-Strings
+)
